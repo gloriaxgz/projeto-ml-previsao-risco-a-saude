@@ -4,6 +4,6 @@ numpy
 joblib
 pathlib
 scikit-learn
-matplotlib.pyplot
+matplotlib
 seaborn
 plotly-express
