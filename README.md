@@ -103,8 +103,8 @@ Para rodar a aplicação Streamlit localmente, siga os passos abaixo:
 
 1. **Clone o repositório:**
     ```bash
-    git clone https://github.com/gloriaxgz/trabalho_final_IA.git
-    cd trabalho_final_IA
+    git clone https://github.com/gloriaxgz/projeto-ml-previsao-risco-a-saude.git
+    cd projeto-ml-previsao-risco-a-saude
     cd deploy
     ```
 
