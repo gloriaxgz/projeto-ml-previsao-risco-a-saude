@@ -8,6 +8,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import plotly.express as px
 
+st.link_button("Acesse o repositório no Github", "https://github.com/gloriaxgz/projeto-ml-previsao-risco-a-saude")
+
 st.set_page_config(page_title="Preditor de Condição Médica", layout="wide")
 
 
@@ -287,10 +289,6 @@ def display_model_insights():
 
 
 st.title('Ferramenta de Previsão de Condição Médica')
-
-
-
-st.link_button("Acesse o repositório no Github", "https://github.com/gloriaxgz/projeto-ml-previsao-risco-a-saude")
 
 
 st.markdown("Insira os dados do paciente para calcular o diagnóstico mais provável e as probabilidades.")
