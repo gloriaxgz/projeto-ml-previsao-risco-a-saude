@@ -285,9 +285,10 @@ def display_model_insights():
         - **Monitoramento em Tempo Real:** Conectar a aplicação a dispositivos *wearables* ou IoT para monitorar marcadores (como sono) em tempo real e fornecer alertas preditivos precoces.
     """)
 
-st.link_button("Acesse o repositório no Github", "https://github.com/gloriaxgz/projeto-ml-previsao-risco-a-saude")
 
 st.title('Ferramenta de Previsão de Condição Médica')
+st.link_button("Acesse o repositório no Github", "https://github.com/gloriaxgz/projeto-ml-previsao-risco-a-saude")
+
 st.markdown("Insira os dados do paciente para calcular o diagnóstico mais provável e as probabilidades.")
 
 
