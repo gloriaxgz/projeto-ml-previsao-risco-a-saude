@@ -6,6 +6,7 @@
 - Análise visual complementar em **Power BI**, orientada por *Storytelling with Data*, focada em identificar **fatores de risco clínicos e comportamentais**.
 - Apresentação da **interpretação clínica e com insights de apoio à decisão**, mostrando que o risco é definido por padrões consistentes e passíveis de intervenção precoce.
 
+### Acesse a aplicação clicando <a href='https://trabalhoiagh.streamlit.app/'> aqui</a>.
 
 # Sistema Inteligente de Previsão de Risco à Saúde
 
